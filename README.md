@@ -7,4 +7,4 @@ It also uses a very simple machine learning thing to respond to queries that sta
 It uses the machine learning to determine what response to use from a list of predetermined responses. If it doesn't know how to respond, it'll
 ask how it should reply next time, and the user can input whatever they would like it to say next time someone asks a similar question, hence all the
 profane things in the 'intents.json' file. While this feature did take the most time in the project, I tend to focus on it less because it works
-significantly less well and it's less fun. The pictures is the most cool in my opinion and people seem to enjoy it more.
+significantly less well and it's less fun. The pictures are the most cool part in my opinion, and people seem to enjoy it more.
